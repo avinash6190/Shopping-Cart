@@ -1,0 +1,274 @@
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\AIMIA.dll.config
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\AIMIA.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\AIMIA.pdb
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Antlr3.Runtime.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\EntityFramework.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\EntityFramework.SqlServer.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Newtonsoft.Json.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Owin.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Helpers.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Mvc.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Optimization.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Razor.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.WebPages.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\WebGrease.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Helpers.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Mvc.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Optimization.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.Razor.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.WebPages.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Antlr3.Runtime.pdb
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Newtonsoft.Json.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\EntityFramework.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\EntityFramework.SqlServer.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\obj\Debug\AIMIA.csprojResolveAssemblyReference.cache
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\obj\Debug\AIMIA.dll
+C:\Users\chandan_p\Downloads\AIMIA\AIMIA\AIMIA\obj\Debug\AIMIA.pdb
+D:\AIMIA\AIMIA\obj\Debug\AIMIA.csprojResolveAssemblyReference.cache
+D:\AIMIA\AIMIA\bin\AIMIA.dll.config
+D:\AIMIA\AIMIA\bin\AIMIA.dll
+D:\AIMIA\AIMIA\bin\AIMIA.pdb
+D:\AIMIA\AIMIA\bin\AIMIA.BLService.dll
+D:\AIMIA\AIMIA\bin\AIMIA.Core.dll
+D:\AIMIA\AIMIA\bin\Antlr3.Runtime.dll
+D:\AIMIA\AIMIA\bin\EntityFramework.dll
+D:\AIMIA\AIMIA\bin\EntityFramework.SqlServer.dll
+D:\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\AIMIA\AIMIA\bin\Microsoft.Web.Infrastructure.dll
+D:\AIMIA\AIMIA\bin\Newtonsoft.Json.dll
+D:\AIMIA\AIMIA\bin\Owin.dll
+D:\AIMIA\AIMIA\bin\System.Web.Helpers.dll
+D:\AIMIA\AIMIA\bin\System.Web.Mvc.dll
+D:\AIMIA\AIMIA\bin\System.Web.Optimization.dll
+D:\AIMIA\AIMIA\bin\System.Web.Razor.dll
+D:\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.dll
+D:\AIMIA\AIMIA\bin\System.Web.WebPages.dll
+D:\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.dll
+D:\AIMIA\AIMIA\bin\WebActivatorEx.dll
+D:\AIMIA\AIMIA\bin\WebGrease.dll
+D:\AIMIA\AIMIA\bin\AIMIA.Repository.dll
+D:\AIMIA\AIMIA\bin\AIMIA.BLService.pdb
+D:\AIMIA\AIMIA\bin\AIMIA.Core.pdb
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\AIMIA\AIMIA\bin\System.Web.Helpers.xml
+D:\AIMIA\AIMIA\bin\System.Web.Mvc.xml
+D:\AIMIA\AIMIA\bin\System.Web.Optimization.xml
+D:\AIMIA\AIMIA\bin\System.Web.Razor.xml
+D:\AIMIA\AIMIA\bin\System.Web.WebPages.xml
+D:\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.xml
+D:\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.xml
+D:\AIMIA\AIMIA\bin\Antlr3.Runtime.pdb
+D:\AIMIA\AIMIA\bin\Newtonsoft.Json.xml
+D:\AIMIA\AIMIA\bin\EntityFramework.xml
+D:\AIMIA\AIMIA\bin\EntityFramework.SqlServer.xml
+D:\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AIMIA\AIMIA\bin\AIMIA.Repository.pdb
+D:\AIMIA\AIMIA\obj\Debug\AIMIA.dll
+D:\AIMIA\AIMIA\obj\Debug\AIMIA.pdb
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.dll.config
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.pdb
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.BLService.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.Core.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Antlr3.Runtime.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\EntityFramework.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\EntityFramework.SqlServer.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Newtonsoft.Json.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Owin.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Helpers.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Mvc.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Optimization.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Razor.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.WebPages.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\WebActivatorEx.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\WebGrease.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.Repository.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.BLService.pdb
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.Core.pdb
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Helpers.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Mvc.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Optimization.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.Razor.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.WebPages.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Antlr3.Runtime.pdb
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Newtonsoft.Json.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\EntityFramework.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\EntityFramework.SqlServer.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\bin\AIMIA.Repository.pdb
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\obj\Debug\AIMIA.csprojResolveAssemblyReference.cache
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\obj\Debug\AIMIA.dll
+C:\Users\Chandan\Desktop\AIMIA\AIMIA\obj\Debug\AIMIA.pdb
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.dll.config
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.pdb
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.BLService.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.Core.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Antlr3.Runtime.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\EntityFramework.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\EntityFramework.SqlServer.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Web.Infrastructure.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Newtonsoft.Json.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Owin.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Helpers.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Mvc.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Optimization.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Razor.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.WebPages.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\WebActivatorEx.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\WebGrease.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.Repository.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.BLService.pdb
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.Core.pdb
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Helpers.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Mvc.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Optimization.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.Razor.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.WebPages.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.WebPages.Deployment.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\System.Web.WebPages.Razor.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Antlr3.Runtime.pdb
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Newtonsoft.Json.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\EntityFramework.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\EntityFramework.SqlServer.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Google.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\bin\AIMIA.Repository.pdb
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\obj\Debug\AIMIA.csprojResolveAssemblyReference.cache
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\obj\Debug\AIMIA.dll
+C:\Azhagiri\Personal Projects\Amima Complete Application\AIMIA\AIMIA\obj\Debug\AIMIA.pdb
